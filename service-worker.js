@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/seam-carving/precache-manifest.2dd3f33d860654ef91240980ea78420d.js"
+  "/seam-carving/precache-manifest.71b4a255b3d03a3cea0c1e3947e8bab6.js"
 );
 
 workbox.clientsClaim();

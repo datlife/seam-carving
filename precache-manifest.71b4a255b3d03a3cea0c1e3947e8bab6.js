@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "8f17563b0f7d27880192",
-    "url": "/seam-carving/static/css/main.eaa64956.chunk.css"
+    "revision": "70a7143add0337b926e4",
+    "url": "/seam-carving/static/css/main.61270405.chunk.css"
   },
   {
-    "revision": "8f17563b0f7d27880192",
-    "url": "/seam-carving/static/js/main.8f17563b.chunk.js"
+    "revision": "70a7143add0337b926e4",
+    "url": "/seam-carving/static/js/main.70a7143a.chunk.js"
   },
   {
     "revision": "37f90d57916b981a0157",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/seam-carving/static/js/runtime~main.55e2a35a.js"
   },
   {
-    "revision": "320487615ec2a09511b9a06fbd99582d",
+    "revision": "b0ce9de27bbb564c4ed1516afcc8c490",
     "url": "/seam-carving/index.html"
   }
 ];
