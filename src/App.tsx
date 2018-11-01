@@ -6,7 +6,7 @@ class App extends Component {
     return (
       <div className="App">
         <header className="App-header">
-            <h3>Seam Carving</h3>
+            <h3>Seam Carving - Coming soon! :)</h3>
             <a href="" className="button-upload">Upload Your Photo</a>
 
         </header>
